@@ -1,6 +1,6 @@
 # fakedac-videos
 
-code and patches for fakedac~ music video's
+code and patches for [fakedac~ music video](https://fakedac.net/video)'s from me.
 
 ## music videos
 
